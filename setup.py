@@ -8,6 +8,6 @@ setup(name='Squeak',
       author="Thibaud Morel l'Horset",
       author_email='teebes@teebes.com',
       url='http://teebes.com/',
-      #packages=['blog'],
-      py_modules=['squeak']
+      py_modules=['squeak'],
+      scripts=['squeak.py'],
      )
